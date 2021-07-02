@@ -23,7 +23,8 @@ BASIC LOGIC?
 
 sample image of the output ;-
 
-![IMG_2120](https://user-images.githubusercontent.com/84556881/124219070-2f599f00-db19-11eb-8056-ae957aa28b1d.jpg)
+![Screenshot 2021-07-02 at 9 41 06 AM](https://user-images.githubusercontent.com/84556881/124219281-aabb5080-db19-11eb-9982-9f03cdf4e99e.png)
+
 
 
 
